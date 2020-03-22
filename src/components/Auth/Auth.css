@@ -1,0 +1,29 @@
+.submitButton {
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 12px;
+  border-radius: 7px;
+  margin: 15px;
+  border: 1px solid white;
+  background-color: whitesmoke;
+  color: grey;
+}
+
+.submitButton:hover {
+  cursor: pointer;
+  border: 1px solid grey;
+  color: black;
+}
+
+.formInput {
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 7px;
+  border: 1px solid grey;
+  margin-bottom: 12px;
+}
+
+label {
+  margin: 0 10px 0 0;
+}

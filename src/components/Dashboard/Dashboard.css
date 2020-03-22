@@ -1,0 +1,16 @@
+.changeRoleButton, .logoutButton {
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 12px;
+  border-radius: 7px;
+  margin: 15px;
+  border: 1px solid white;
+  background-color: whitesmoke;
+  color: grey;
+}
+
+.changeRoleButton:hover, .logoutButton:hover {
+  cursor: pointer;
+  border: 1px solid grey;
+  color: black;
+}
